@@ -1,2 +1,1 @@
-# Marble-resources
-Resources for my Defold marble physics work
+# Resources-for-marble-game
